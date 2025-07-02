@@ -21,7 +21,7 @@ Hi viewer, this is a simple landing page built with React.js, ideal for showcasi
 🚀 **GitHub Pages** – Hosting and deployment
 -------------------------------------------------------------------------------------------------
 🚀 Live Demo
-https://mukeshrajan.github.io/mobileapp/{:target="_blank"}
+https://mukeshrajan.github.io/mobileapp/
 -------------------------------------------------------------------------------------------------
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
