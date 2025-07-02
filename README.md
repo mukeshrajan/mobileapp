@@ -1,4 +1,5 @@
 📱 Mobile App Landing Page Template
+
 Hi viewer, this is a simple landing page built with React.js, ideal for showcasing mobile applications. This project focuses on clean design, responsiveness, and ease of customization—perfect for startups, personal projects, or prototyping client apps.
 -------------------------------------------------------------------------------------------------
 🌟 Features
@@ -11,16 +12,18 @@ Hi viewer, this is a simple landing page built with React.js, ideal for showcasi
 🔹 Clean codebase that's easy to extend and reuse
 -------------------------------------------------------------------------------------------------
 🛠 Tech Stack
-React.js – JavaScript library for building user interfaces
-HTML5 – Markup structure
-CSS3 – Styling and layout
-JavaScript (ES6) – Interactivity
-Font Awesome – Icons
-Google Fonts – Typography
-GitHub Pages – Deployment
+⚛️ **React.js** – JavaScript library for building user interfaces  
+🌐 **HTML5** – Markup structure  
+🎨 **CSS3** – Styling and layout  
+🧠 **JavaScript (ES6)** – Logic and interactivity  
+⭐ **Font Awesome** – Icon library for clean UI visuals  
+🔤 **Google Fonts** – Free font library for modern typography  
+🚀 **GitHub Pages** – Hosting and deployment
 -------------------------------------------------------------------------------------------------
 🚀 Live Demo
-https://mukeshrajan.github.io/mobileapp/
+<a href="https://mukeshrajan.github.io/mobileapp/" target="_blank">👉 Check it out here</a>
 -------------------------------------------------------------------------------------------------
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+
