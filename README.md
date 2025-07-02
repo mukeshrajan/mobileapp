@@ -10,7 +10,7 @@ Hi viewer, this is a simple landing page built with **React.js**, ideal for show
 🔹 **Interactive UI elements** with smooth CSS transitions  
 🔹 **Sample pricing section** with tiered plans (Gifts ₹5, Mobile ₹399, Accessories ₹149)  
 🔹 **App Store/Play Store download buttons** for real-world flow simulation  
-🔹 Clean codebase that's easy to extend and reuse  
+🔹 **Clean codebase** that's easy to extend and reuse  
 
 ## 🛠 Tech Stack  
 
